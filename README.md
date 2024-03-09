@@ -1,2 +1,0 @@
-# fourthApp
-Multiplication table
